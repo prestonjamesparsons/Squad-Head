@@ -1,7 +1,11 @@
 <body>
 <div>
+<style>
+text-align: center;
+text-color; white;
+</style>
 
-<center><h1> Introducing Black Squad
+<h1> Introducing Black Squad
 the battle between Viper Circle and Peacemaker </h1>
 
 <p>
@@ -24,6 +28,6 @@ Tensions begin to boil, as both groups continue to overthrow each other.
 
 To join Viper Circle and dominate the World? Or save the world with Peacemaker?
 The war has begun. Which side will you join?
-</p></center>
+</p>
 </div>
 
